@@ -1,6 +1,6 @@
 
 
-<div id="header" align="">
+<div id="header"centeralign="">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 
@@ -13,39 +13,6 @@
   </a>
 </div>
 
-
-
-
-
-
-
-
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html5" alt="Html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaheemahBello&theme=vue-dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaheemahBello&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/Naheemah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-📈 my github stats
-<div>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NaheemahBello&show_icons=true&theme=gotham" alt="NaheemahBello" />
-  </div>
-  
-  
   ####
   <h1 align='center'> Hi there 👋, I am <strong> Belema Acheye </strong> </h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
@@ -109,7 +76,3 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timex19&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
    </p>  
 </details>
-
-
-
-
