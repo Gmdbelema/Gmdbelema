@@ -23,7 +23,7 @@
   <h1 align='center'> Hi there 👋, I am <strong> Belema Acheye </strong> </h1>
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 <p>
-  I am a Full Stack Software Engineer/Developer in making, Marine Engineer, PGD Shipping Transpot Management from Nigeria 🇳🇬.
+  I am a Full Stack Software Engineer/Developer in making, Marine Engineer, PGD Shipping Transport Management from Nigeria 🇳🇬.
 </p>
 <p>
   I'm passionate about how technology boosts productivity and economic growth. 
